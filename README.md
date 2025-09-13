@@ -1,8 +1,8 @@
 # Ngôn Ngữ Lập Trình Java
 Đại học Sài Gòn (SGU), TP.HCM, Việt Nam <br>
 [2025-09] Java Language <br>
-<b>Giảng viên:<\b> Nguyễn Thị Hồng Anh <br>
-<b>Nội Dung:<\b>
+<b>Giảng viên:</b> Nguyễn Thị Hồng Anh <br>
+<b>Nội Dung:</b> <br>
 Chương 1. Lập trình Java căn bản <br>
 Chương 2. Lập trình Hướng đối tượng với Java <br>
 Chương 3. Lập trình Giao diện đồ họa (Winform) <br>
@@ -17,7 +17,7 @@ Chương 5. Giới thiệu JSP và ServLet <br>
 <b>Bảng tóm tắt:</b> <br>
 
 [1. Thiết kế ERD](https://drive.google.com/drive/folders/1DSlpP4O1cTwiVmzkvUzAlbEBZD3DVykA?usp=sharing) <br>
-[Sản phẩm]<br>
+[Sản phẩm]()<br>
 
 
 # Tiến độ thực hiện
