@@ -1,0 +1,11 @@
+DONTHUOC,DT01,Nguyen Van A,Bac Si A
+THUOC,Paracetamol,2,5000,BD1
+THUOC,Amoxicillin,1,12000,BD2
+
+DONTHUOC,DT02,Tran Thi B,Bac Si B
+THUOC,Vien Ngam,5,2000,BD3
+THUOC,Cefalexin,2,15000,BD4
+THUOC,VitaminC,3,7000,BD5
+
+DONTHUOC,DT03,Le Van C,Bac Si C
+THUOC,Ibuprofen,1,18000,BD6
