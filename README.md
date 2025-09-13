@@ -17,6 +17,34 @@ Chương 5. Giới thiệu JSP và ServLet <br>
 <b>Hạn đăng ký:</b> ngày 12/9/2025 tại gg classroom.<br>
 <b>Chủ đề:</b> Xây dựng ứng dụng mua bán đồ thể thao trên desktop.<br>
 <b>Bảng tóm tắt:</b> <br>
+<table>
+  <thead>
+    <tr>
+      <th>Thư mục</th>
+      <th>DTO</th>
+      <th>DAO</th>
+      <th>BUS</th>
+      <th>GUI</th>
+      <th>Lib</th>
+      <th>Image</th>
+      <th>ERD</th>
+      <th>Database</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Link</td>
+      <td><a href="DTO">DTO</a></td>
+      <td><a href="DAO">DAO</a></td>
+      <td><a href="BUS">BUS</a></td>
+      <td><a href="GUI">GUI</a></td>
+      <td><a href="Lib">Lib</a></td>
+      <td><a href="Image">Image</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1DSlpP4O1cTwiVmzkvUzAlbEBZD3DVykA?usp=sharing">ERD</a></td>
+      <td><a href="DataBase">DataBase</a></td>
+    </tr>
+  </tbody>
+</table>
 
 [1. Thiết kế ERD](https://drive.google.com/drive/folders/1DSlpP4O1cTwiVmzkvUzAlbEBZD3DVykA?usp=sharing) <br>
 [Sản phẩm]()<br>
