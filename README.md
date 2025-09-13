@@ -1,7 +1,7 @@
 # Ngôn Ngữ Lập Trình Java
 Đại học Sài Gòn (SGU), TP.HCM, Việt Nam <br>
 [2025-09] Java Language <br>
-<b>Giảng viên:</b> Nguyễn Thị Hồng Anh <br>
+<b>Giảng viên:</b> ThS. Nguyễn Thị Hồng Anh <br>
 <b>Nội Dung:</b> <br>
 Chương 1. Lập trình Java căn bản <br>
 Chương 2. Lập trình Hướng đối tượng với Java <br>
