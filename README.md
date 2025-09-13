@@ -16,6 +16,7 @@ Chương 5. Giới thiệu JSP và ServLet <br>
 # Desktop App - Mini Project
 <b>Hạn đăng ký:</b> ngày 12/9/2025 tại gg classroom.<br>
 <b>Chủ đề:</b> Xây dựng ứng dụng mua bán đồ thể thao trên desktop.<br>
+<b>Mô tả tổng quan: </b>
 <b>Bảng tóm tắt:</b> <br>
 <table>
   <thead>
