@@ -10,6 +10,8 @@ Chương 4. Kết nối Cơ sở dữ liệu <br>
 Chương 5. Giới thiệu JSP và ServLet <br>
 
 # Bài Tập Quá Trình Tại Lớp
+[1. Ôn tập OOP - Quản lý nhà thuốc bằng console](https://github.com/cotrandev/DesktopAppJava/blob/main/BaiTapOnTuan1-OOP.rar)<br>
+
 
 # Desktop App - Mini Project
 <b>Hạn đăng ký:</b> ngày 12/9/2025 tại gg classroom.<br>
