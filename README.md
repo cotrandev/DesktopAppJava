@@ -12,6 +12,13 @@ Chương 5. Giới thiệu JSP và ServLet <br>
 # Bài Tập Quá Trình Tại Lớp
 [1. Ôn tập OOP - Quản lý nhà thuốc bằng console](https://github.com/cotrandev/DesktopAppJava/blob/main/BaiTapOnTuan1-OOP.rar)<br>
 
+# Tóm tắt kiến thức
+<h3>DTO - Data Transfer Object – tức là đối tượng truyền dữ liệu.</h3>
+<ul>
+  <li>Chỉ chứa thuộc tính, getter/setter, constructor</li>
+  <li>Không có logic nghiệp vụ</li>
+  <li>Mục đích: gom dữ liệu lại để truyền qua các tầng (DAO → Service → Controller → View).</li>
+</ul>
 
 # Desktop App - Mini Project
 <b>Hạn đăng ký:</b> ngày 12/9/2025 tại gg classroom.<br>
@@ -48,13 +55,15 @@ Chương 5. Giới thiệu JSP và ServLet <br>
 </table>
 
 [1. Thiết kế ERD](https://drive.google.com/drive/folders/1DSlpP4O1cTwiVmzkvUzAlbEBZD3DVykA?usp=sharing) <br>
+[2. Hoàn thành DTO, thiết kế giao diện đăng nhập, thực hiện code]()<br>.
 [Sản phẩm]()<br>
 
 
 # Tiến độ thực hiện
 <b>Tuần 1:</b> Nhận lớp, làm quen giảng viên, ôn tập OOP, chọn đề tài và lập nhóm.<br>
 <b>Tuần 2:</b> Thiết kế ERD, xin ý kiến phản hồi từ giảng viên.<br>
-<b>Tuần 3:</b>
+<b>Tuần 3:</b> Viết xong DTO, thiết kế giao diện đăng nhập, thực hiện code. <br>
+<b>Tuần 4:</b>
 
 
 # Thông tin cá nhân
