@@ -2,12 +2,15 @@
 Đại học Sài Gòn (SGU), TP.HCM, Việt Nam <br>
 [2025-09] Java Language <br>
 <b>Giảng viên:</b> ThS. Nguyễn Thị Hồng Anh <br>
-<b>Nội Dung:</b> <br>
-Chương 1. Lập trình Java căn bản <br>
-Chương 2. Lập trình Hướng đối tượng với Java <br>
-Chương 3. Lập trình Giao diện đồ họa (Winform) <br>
-Chương 4. Kết nối Cơ sở dữ liệu <br>
-Chương 5. Giới thiệu JSP và ServLet <br>
+<b>Nội Dung:</b> 
+<ul>
+  <li>Chương 1. Lập trình Java căn bản</li>
+  <li>Chương 2. Lập trình Hướng đối tượng với Java</li>
+  <li>Chương 3. Lập trình Giao diện đồ họa (Winform)</li>
+  <li>Chương 4. Kết nối Cơ sở dữ liệu</li>
+  <li>Chương 5. Giới thiệu JSP và ServLet</li>
+</ul>
+
 
 # Bài Tập Quá Trình Tại Lớp
 [1. Ôn tập OOP - Quản lý nhà thuốc bằng console](https://github.com/cotrandev/DesktopAppJava/blob/main/BaiTapOnTuan1-OOP.rar)<br>
