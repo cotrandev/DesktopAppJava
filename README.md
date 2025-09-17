@@ -55,7 +55,8 @@ Chương 5. Giới thiệu JSP và ServLet <br>
 </table>
 
 [1. Thiết kế ERD](https://drive.google.com/drive/folders/1DSlpP4O1cTwiVmzkvUzAlbEBZD3DVykA?usp=sharing) <br>
-[2. Hoàn thành DTO, thiết kế giao diện đăng nhập, thực hiện code]()<br>.
+[2. Hoàn thành DTO, thiết kế giao diện đăng nhập, thực hiện code]()<br>
+
 [Sản phẩm]()<br>
 
 
