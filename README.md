@@ -59,7 +59,7 @@
 
 [1. Thiết kế ERD](https://drive.google.com/drive/folders/1DSlpP4O1cTwiVmzkvUzAlbEBZD3DVykA?usp=sharing) <br>
 [2. Hoàn thành DTO](https://github.com/cotrandev/DesktopAppJava/tree/MainCode/DTO)<br>
-[3. Thiết kế và code giao diện đăng nhập]() <br>
+[3. Thiết kế và code giao diện đăng nhập](https://github.com/cotrandev/DesktopAppJava/blob/MainCode/GUI/login.java) <br>
 
 [Sản phẩm]()<br>
 
