@@ -48,7 +48,7 @@
       <td><a href="https://github.com/cotrandev/DesktopAppJava/tree/MainCode/DTO">DTO</a></td>
       <td><a href="DAO">DAO</a></td>
       <td><a href="BUS">BUS</a></td>
-      <td><a href="GUI">GUI</a></td>
+      <td><a href="https://github.com/cotrandev/DesktopAppJava/tree/MainCode/GUI">GUI</a></td>
       <td><a href="Lib">Lib</a></td>
       <td><a href="Image">Image</a></td>
       <td><a href="https://drive.google.com/drive/folders/1DSlpP4O1cTwiVmzkvUzAlbEBZD3DVykA?usp=sharing">ERD</a></td>
