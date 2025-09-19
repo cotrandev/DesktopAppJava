@@ -3,35 +3,33 @@ package DTO;
 public class ChiTietPhieuNhap_DTO {
     private int maPN, maSP, soLuongNhap;
     private double donGiaNhap, thanhTien;
-    private String maSize, tenSP;
+    private int maSize;
 
     // constructor
     public ChiTietPhieuNhap_DTO() {
 
     }
 
-    public ChiTietPhieuNhap_DTO(int maSP, String tenSP, int soLuongNhap, double donGiaNhap, double thanhTien,
-            String maSize) {
+    public ChiTietPhieuNhap_DTO(int maSP, int soLuongNhap, double donGiaNhap, double thanhTien,
+            int maSize) {
         this.maSP = maSP;
-        this.tenSP = tenSP;
         this.soLuongNhap = soLuongNhap;
         this.maSize = maSize;
         this.donGiaNhap = donGiaNhap;
         this.thanhTien = thanhTien;
     }
 
-    public ChiTietPhieuNhap_DTO(int maPN, int maSP, String tenSP, int soLuongNhap, double donGiaNhap, double thanhTien,
-            String maSize) {
+    public ChiTietPhieuNhap_DTO(int maPN, int maSP, int soLuongNhap, double donGiaNhap, double thanhTien,
+            int maSize) {
         this.maPN = maPN;
         this.maSP = maSP;
-        this.tenSP = tenSP;
         this.soLuongNhap = soLuongNhap;
         this.maSize = maSize;
         this.donGiaNhap = donGiaNhap;
         this.thanhTien = thanhTien;
     }
 
-    public ChiTietPhieuNhap_DTO(int maPN, int maSP, int soLuongNhap, double donGiaNhap, String maSize) {
+    public ChiTietPhieuNhap_DTO(int maPN, int maSP, int soLuongNhap, double donGiaNhap, int maSize) {
         this.maPN = maPN;
         this.maSP = maSP;
         this.soLuongNhap = soLuongNhap;
@@ -91,7 +89,7 @@ public class ChiTietPhieuNhap_DTO {
     // }
     @Override
     public String toString() {
-        return "ChiTietPhieuNhap [maPN = " + maPN + ", maSP = " + maSP + ", tenSP = " + tenSP + ", soLuong = "
+        return "ChiTietPhieuNhap [maPN = " + maPN + ", maSP = " + maSP + ", soLuong = "
                 + soLuongNhap + ", maSize = " + maSize + ", donGia = " + donGiaNhap + ", thanhTien = " + thanhTien
                 + "]";
     }

@@ -6,13 +6,15 @@ public class MGG_DTO {
     private int maMGG;
     private float phanTramGiam;
     private LocalDateTime ngayBatDau, ngayKetThuc;
-    private String trangThai;
+    private String trangThai, loaiGiamGia;
 
     public MGG_DTO() {
     }
 
-    public MGG_DTO(int maMGG, float phanTramGiam, LocalDateTime ngayBD, LocalDateTime ngayKT, String trangThai) {
+    public MGG_DTO(int maMGG, String loaiGiamGia, float phanTramGiam, LocalDateTime ngayBD, LocalDateTime ngayKT,
+            String trangThai) {
         this.maMGG = maMGG;
+        this.loaiGiamGia = loaiGiamGia;
         this.phanTramGiam = phanTramGiam;
         this.ngayBatDau = ngayBD;
         this.ngayKetThuc = ngayKT;
@@ -39,6 +41,10 @@ public class MGG_DTO {
         return trangThai;
     }
 
+    public String getLoaiGiamGia() {
+        return loaiGiamGia;
+    }
+
     public void setMaGG(int maGG) {
         this.maMGG = maGG;
     }
@@ -59,4 +65,7 @@ public class MGG_DTO {
         this.trangThai = trangThai;
     }
 
+    public void setLoaiGG(String loaiGG) {
+        this.loaiGiamGia = loaiGG;
+    }
 }

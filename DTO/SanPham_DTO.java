@@ -3,15 +3,15 @@ package DTO;
 import java.util.Arrays;
 
 public class SanPham_DTO {
-    private int maSP, maNCC, maDM, maCN, maGG, soLuongTon;
-    private String tenSP, size, mauSac;
+    private int maSP, maNCC, maDM, maCN, soLuongTon, size;
+    private String tenSP, mauSac;
     private double gia;
     private byte[] hinhAnh;
 
     public SanPham_DTO() {
     }
 
-    public SanPham_DTO(int maSP, int maDM, int maNCC, String tenSP, String size, String mauSac, double gia,
+    public SanPham_DTO(int maSP, int maDM, int maNCC, String tenSP, int size, String mauSac, double gia,
             int soLuongTon, int maCN, byte[] hinhAnh) {
         this.maSP = maSP;
         this.maDM = maDM;
@@ -37,10 +37,6 @@ public class SanPham_DTO {
         return tenSP;
     }
 
-    public String getSize() {
-        return size;
-    }
-
     public String getMauSac() {
         return mauSac;
     }
@@ -63,10 +59,6 @@ public class SanPham_DTO {
 
     public void setTenSP(String tenSP) {
         this.tenSP = tenSP;
-    }
-
-    public void setSize(String size) {
-        this.size = size;
     }
 
     public void setMauSac(String mauSac) {

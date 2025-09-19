@@ -2,34 +2,32 @@ package DTO;
 
 public class ChiTietHoaDon_DTO {
     private int maHD, maSP, soLuong;
-    private String maSize, tenSP;
+    private int maSize;
     private double donGia, thanhTien;
 
     public ChiTietHoaDon_DTO() {
     }
 
-    public ChiTietHoaDon_DTO(int maSP, int soLuong, String maSize, String tenSP, double donGia,
+    public ChiTietHoaDon_DTO(int maSP, int soLuong, int maSize, double donGia,
             double thanhTien) {
         this.maSP = maSP;
-        this.tenSP = tenSP;
         this.maSize = maSize;
         this.soLuong = soLuong;
         this.donGia = donGia;
         this.thanhTien = thanhTien;
     }
 
-    public ChiTietHoaDon_DTO(int maHD, int maSP, int soLuong, String maSize, String tenSP, double donGia,
+    public ChiTietHoaDon_DTO(int maHD, int maSP, int soLuong, int maSize, double donGia,
             double thanhTien) {
         this.maHD = maHD;
         this.maSP = maSP;
-        this.tenSP = tenSP;
         this.maSize = maSize;
         this.soLuong = soLuong;
         this.donGia = donGia;
         this.thanhTien = thanhTien;
     }
 
-    public ChiTietHoaDon_DTO(int maHD, int maSP, int soLuong, String maSize, double donGia) {
+    public ChiTietHoaDon_DTO(int maHD, int maSP, int soLuong, int maSize, double donGia) {
         this.maHD = maHD;
         this.maSP = maSP;
         this.maSize = maSize;
@@ -45,14 +43,6 @@ public class ChiTietHoaDon_DTO {
 
     public int getMaSP() {
         return maSP;
-    }
-
-    public String getTenSP() {
-        return tenSP;
-    }
-
-    public String getMaSize() {
-        return maSize;
     }
 
     public int getSoLuong() {
@@ -74,14 +64,6 @@ public class ChiTietHoaDon_DTO {
 
     public void setMaSP(int maSP) {
         this.maSP = maSP;
-    }
-
-    public void setMaSize(String maSize) {
-        this.maSize = maSize;
-    }
-
-    public void setTenSP(String tenSP) {
-        this.tenSP = tenSP;
     }
 
     public void setSoLuong(int soLuong) {
